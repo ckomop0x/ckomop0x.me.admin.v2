@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_content_images",
+  "info": {
+    "displayName": "Image",
+    "icon": "image"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}
