@@ -1,7 +1,7 @@
 {
-  "name": "ckomop-0-x-me-admin-v-2",
+  "name": "ckomop0x-me-admin-v-2",
   "private": true,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ckomop0x.me.admin.v2",
   "scripts": {
     "develop": "strapi develop",
@@ -11,11 +11,11 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/plugin-graphql": "4.1.9",
-    "@strapi/plugin-i18n": "4.1.9",
-    "@strapi/plugin-users-permissions": "4.1.9",
-    "@strapi/strapi": "4.1.9",
-    "pg": "8.6.0",
+    "@strapi/plugin-graphql": "4.1.11",
+    "@strapi/plugin-i18n": "4.1.11",
+    "@strapi/plugin-users-permissions": "4.1.11",
+    "@strapi/strapi": "4.1.11",
+    "pg": "8.7.3",
     "strapi-plugin-config-sync": "^1.0.1"
   },
   "author": {
