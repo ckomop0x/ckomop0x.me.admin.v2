@@ -1,7 +1,7 @@
 {
   "name": "ckomop0x-me-admin-v-2",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Admin panel for Ckomop0x.me website, uses Strapi v4",
   "scripts": {
     "develop": "strapi develop",
@@ -10,10 +10,10 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-graphql": "4.2.2",
-    "@strapi/plugin-i18n": "4.2.2",
-    "@strapi/plugin-users-permissions": "4.2.2",
-    "@strapi/strapi": "4.2.2",
+    "@strapi/plugin-graphql": "4.2.3",
+    "@strapi/plugin-i18n": "4.2.3",
+    "@strapi/plugin-users-permissions": "4.2.3",
+    "@strapi/strapi": "4.2.3",
     "pg": "8.7.3",
     "pg-connection-string": "^2.5.0",
     "strapi-plugin-config-sync": "^1.0.2"
